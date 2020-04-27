@@ -34,7 +34,7 @@ yarn add  vue-auths
 ```javascript
 import Vue from 'vue'
 import VueAxios from 'vue-axios'
-import VueAuthenticate from 'vue-auth'
+import VueAuthenticate from 'vue-auths'
 import axios from 'axios';
 
 Vue.use(VueAxios, axios)
@@ -104,7 +104,7 @@ new Vue({
 import Vue from 'vue'
 import Vuex from 'vuex'
 import VueAxios from 'vue-axios'
-import { VueAuthenticate } from 'vue-auth'
+import { VueAuthenticate } from 'vue-auths'
 import axios from 'axios';
 
 Vue.use(Vuex)
@@ -120,7 +120,7 @@ const vueAuth = new VueAuthenticate(Vue.prototype.$http, {
 var Vue = require('vue')
 var Vuex = require('vuex')
 var VueAxios = require('vue-axios')
-var VueAuthenticate = require('vue-auth')
+var VueAuthenticate = require('vue-auths')
 var axios = require('axios');
 
 Vue.use(Vuex)

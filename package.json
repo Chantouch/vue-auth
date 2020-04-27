@@ -1,6 +1,6 @@
 {
   "name": "vue-auths",
-  "version": "0.0.2-beta-0",
+  "version": "0.0.2-beta-1",
   "description": "Authentication library for Vue.js",
   "main": "dist/vue-auth.min.js",
   "module": "dist/vue-auth.es2015.js",
