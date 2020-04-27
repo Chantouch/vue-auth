@@ -1,5 +1,5 @@
 /*!
- * vue-auth v0.0.2-beta
+ * vue-auth v0.0.2-beta-0
  * https://github.com/Chantouch/vue-auth
  * Released under the MIT License.
  */
@@ -1261,7 +1261,7 @@ var VueAuth = function VueAuth ($http, overrideOptions) {
 
 /**
  * Check if user is authenticated
- * @author Sek Chantouch <https://github.com/Chnatouch>
+ * @author Sek Chantouch <https://github.com/Chantouch>
  * @copyright Method taken from https://github.com/Chantouch/satellizer
  * @return {Boolean}
  */

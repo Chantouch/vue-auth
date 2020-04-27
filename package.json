@@ -1,6 +1,6 @@
 {
   "name": "vue-auths",
-  "version": "0.0.2-beta",
+  "version": "0.0.2-beta-0",
   "description": "Authentication library for Vue.js",
   "main": "dist/vue-auth.min.js",
   "module": "dist/vue-auth.es2015.js",
@@ -53,7 +53,7 @@
     "oauth": "^0.9.15",
     "oauth-signature": "^1.5.0",
     "request": "^2.88.2",
-    "rollup": "^2.6.1",
+    "rollup": "^0.41.6",
     "rollup-plugin-babel": "^2.7.1",
     "rollup-plugin-buble": "^0.15.0",
     "rollup-plugin-commonjs": "^8.0.2",
