@@ -1,4 +1,7 @@
-[**WARNING**]: README file is currently in process of rewrite and will be released soon.
+[![Latest Version on NPM](https://img.shields.io/npm/v/vue-auths.svg?style=flat-square)](https://npmjs.com/package/vue-auths)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![npm](https://img.shields.io/npm/dt/vue-auths.svg?style=flat-square)](https://npmjs.com/package/vue-auths)
+[![npm](https://img.shields.io/npm/dm/vue-auths.svg?style=flat-square)](https://npmjs.com/package/vue-auths)
 
 # vue-auths
 
