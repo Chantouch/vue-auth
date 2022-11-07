@@ -46,7 +46,7 @@
     "connect-history-api-fallback": "^1.6.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-connect": "^5.7.0",
     "gulp-webpack": "^1.5.0",
     "node-dev": "^4.0.0",
